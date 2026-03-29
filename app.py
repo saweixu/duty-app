@@ -234,7 +234,6 @@ with st.expander("Comment ça marche", expanded=False):
     st.write(
         """
 - Upload un ou plusieurs PDF
-- L'application cherche le montant près de **Paiement comptant**
 - Elle détecte le préfixe depuis le nom du fichier
 - Elle génère :
   - un détail par fichier
